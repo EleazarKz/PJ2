@@ -9,7 +9,7 @@ var lyricsData = [
   { text: "I wanna be your Ford Cortina", time: 23 },
   { text: "I will never rust", time: 26 },
   { text: "If you like your coffee hot", time: 30 },
-  { text: "Let me be your coffee pot", time: 35 },
+  { text: "Let me be your coffee pot", time: 34 },
   { text: "You call the shots, babe", time: 38 },
   { text: "I just wanna be yours", time: 41 },
   { text: "Secrets I have held in my heart, Are harder to hide than I thought, Maybe I just wanna be yours", time: 47 },
