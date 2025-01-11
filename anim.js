@@ -15,8 +15,8 @@ var lyricsData = [
   { text: "Secrets I have held in my heart, Are harder to hide than I thought, Maybe I just wanna be yours", time: 43 },
   { text: "I wanna be yours, I wanna be yours", time: 54 },
   { text: "Wanna be yours  Wanna be yours  Wanna be yours", time: 58 },
-  { text: "Let me be your leccy meter, And I'll never run out", time: 72 },
-  { text: "Let me be the portable heater That you'll get cold without", time: 78 },
+  { text: "Let me be your leccy meter, And I'll never run out", time: 73 },
+  { text: "Let me be the portable heater That you'll get cold without", time: 79 },
   { text: "I wanna be your setting lotion ", time: 86 },
   { text: "Hold your hair in deep devotion", time: 89 },
   { text: "At least as deep as the Pacific Ocean", time: 92 },
@@ -31,7 +31,7 @@ var lyricsData = [
   { text: "I will never rust", time: 154 },
   { text: "I just wanna be yours", time: 156 },
   { text: "I just wanna be yours", time: 159 },
-  { text: "I just wanna be yours", time: 163 },
+  { text: "I just wanna be yours....", time: 163 },
 ];
 
 // Animar las letras
